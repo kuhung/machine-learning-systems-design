@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <title>数据科学100问 - dsqa.kuhungio.cn</title>
+    <meta name="description" content="数据挖掘/机器学习/数据科学100问">
+    <meta name="keywords" content="数据挖掘,机器学习,数据科学,面试题,面经">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+    <meta name="author" content="kuhungio" />
+    <meta property="og:title" content="数据挖掘/机器学习/数据科学100问" />
+    <meta property="og:url" content="https://dsqa.kuhungio.cn/" />
+    <meta property="og:image" content="./assets/logo.png" />
+    <meta property="og:site_name" content="数据挖掘/机器学习/数据科学100问" />
+    <meta property="og:description" content="数据挖掘,机器学习,数据科学,面试题,面经"/>
+    <!-- <link rel="icon" href="https://dsqa.kuhungio.cn/favicon.ico" type="image/x-icon" id="page_favionc"> -->
+    <link href="./assets/min.css" rel="stylesheet">
+    <link rel="alternate icon" type="image/png" href="./assets/logo.png">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-152699840-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-152699840-2');
+
+    </script>
+  </head>
+  <body>
+    <div class="top-wrap" style="position: absolute; top: 1vh;width: 100%;z-index: 999"> 
+      <div class="container">
+        <div class="row" style="margin-top: 30px;">
+          <div class="col">
+            <img src="./assets/logo.png" height="60">
+          </div>
+          <div class="col">
+            <div class="float-right" style="padding-top: 0px;">
+              <a class="btn btn-primary btn-filled btn-xs" href="./assets/group.png" >加群讨论</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="main-wrapper" style="position: relative; top: -6vh;">
+      <div class="container main-sentence justify-content-center text-center">
+        <span id="sentence" style="font-size: 2rem;"></span>
+      </div>
+    </div>
+
+    <div class="foot-1" style="position: absolute; bottom: 7vh;width: 100%;">
+      <div class="container">
+        <div class="row">
+          <div class="col text-center">
+            <button class="btn btn-primary btn-filled btn-xs" onclick="randomSentence()">再来一份</button>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col text-center">
+            <p class="lead text" style="margin-top: 1rem;">截屏分享朋友</p>
+            <img src="./assets/qrcode.png" style="width:48px;height:48px" />
+          </div>
+        </div>
+        <div class="col text-center">
+        <span id="busuanzi_container_site_pv">已有<span id="busuanzi_value_site_pv"></span>人次接受挑战</span>
+        </div>
+      </div>
+    </div>
+
+    <script src="./assets/index.js"></script>
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  </body>
+</html>
