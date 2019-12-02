@@ -12,6 +12,5 @@
 
 <div align="center"><img src="https://kuhungio.me/images/post/social.jpg"/></div>
 
-[dujitang]: https://github.com/mzlogin/dujitang
 [dsqa]: https://github.com/kuhung/dsqa
 [machine-learning-systems-design]:https://github.com/chiphuyen/machine-learning-systems-design
