@@ -2,8 +2,8 @@
 
 ## Refer
 * [mzlogin/dujitang][dujitang]
-* [kuhung/soup][soup]
-* [Data-Science-Interview-Questions-and-Answers][Data-Science-Interview-Questions-and-Answers]
+* [kuhung/dsqa][dsqa]
+* [chiphuyen/machine-learning-systems-design][machine-learning-systems-design]
 
 
 ---
@@ -13,5 +13,5 @@
 <div align="center"><img src="https://kuhungio.me/images/post/social.jpg"/></div>
 
 [dujitang]: https://github.com/mzlogin/dujitang
-[soup]: https://github.com/kuhung/soup
-[Data-Science-Interview-Questions-and-Answers]:https://github.com/zhiqiangzhongddu/Data-Science-Interview-Questions-and-Answers-General-
+[dsqa]: https://github.com/kuhung/dsqa
+[machine-learning-systems-design]:https://github.com/chiphuyen/machine-learning-systems-design
