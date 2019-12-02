@@ -1,10 +1,8 @@
 # dsqa 数据挖掘/机器学习/算法工程师面试100问
 
 ## Refer
-* [mzlogin/dujitang][dujitang]
-* [kuhung/dsqa][dsqa]
 * [chiphuyen/machine-learning-systems-design][machine-learning-systems-design]
-
+* [kuhung/dsqa][dsqa]
 
 ---
 
